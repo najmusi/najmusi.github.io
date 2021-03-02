@@ -1,1 +1,1 @@
-# najmusi.github.io v2
+# najmusi.github.io
