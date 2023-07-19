@@ -10,10 +10,10 @@ featured_image: /images/demo/demo-landscape.jpg
 ## Autonomous Vehicles
 
 
-Upon running the spacecraft engineering gamut, I joined [Oxbotica Ltd](https://www.oxbotica.com/) in 2020 to leverage my experience and develop autonomous vehicle (AV) technology in Toronto, Canada. My decision was based largely in part on their world-renowned mobile robotics team and their vision for [Universal Autonomy](https://www.oxbotica.com/what-we-do/). Oxbotica combines classical robotics, modern machine learning and principled engineering to bring autonomy to vehicles in all domains: [cities](https://www.oxbotica.com/insight/ocado-group-and-oxbotica-announce-investment-and-joint-collaboration-to-develop-autonomous-integrated-mobility-solution/), [roads](https://www.oxbotica.com/insight/oxbotica-masters-driving-on-the-right-hand-side-of-the-road-as-it-becomes-first-uk-company-to-complete-automated-public-trials-in-germany/), [airports](https://www.oxbotica.com/insight/iag-cargo-undertakes-autonomous-vehicle-trial-at-heathrow-airport/), [mines](https://www.oxbotica.com/insight/wenco-and-oxbotica-partner-to-develop-first-ever-open-autonomy-solution-for-mining-industry/) and [refineries](https://www.oxbotica.com/insight/bp-and-oxbotica-complete-industry-first-autonomous-vehicle-trial-at-german-refinery/).
+Upon running the spacecraft engineering gamut, I joined [Oxa Ltd](https://oxa.tech/) in 2020 to leverage my experience and develop autonomous vehicle (AV) technology in Toronto, Canada. My decision was based largely in part on their world-renowned mobile robotics team and their vision for [Universal Autonomy](https://oxa.tech/solutions#universalAutonomy). Oxbotica combines classical robotics, modern machine learning and principled engineering to bring autonomy to vehicles in all [domains](https://oxa.tech/solutions#industries): cities, roads, airports, mines and refineries.
 
 
-As part of the Prediction and Tracking team my role is to estimate where objects in the environment will travel and what the likelihood of that motion is after being detected (tracked). This is just one part of many in the pursuit of Universal Autonomy.
+As part of the Prediction team my role is to estimate where objects in the environment will travel and what the likelihood of that motion is after being tracked. This is just one part of many in the pursuit of Universal Autonomy.
 
 ## Recommended From My Bookshelf
 
